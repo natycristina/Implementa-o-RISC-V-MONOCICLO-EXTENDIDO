@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\__pCloud-Lite-DC\Projetos\IC_Nataly\RISC-V-Monociclo-Basico-Teste\simulation\qsim
+vtop
+Z1 !s100 aIidf;M244Q7j1]LX=;2Y1
+Z2 I:LgD3_F[AoHTajYJ[iLX33
+Z3 V600R3;49fJLWoLPdBQnjM3
+Z4 dC:\Users\Fabio Furlan\Documents\IC-2025\RISC-V-Monociclo-Basico\RISC-V-Monociclo-Basico-Teste\simulation\qsim
+Z5 w1771961553
+Z6 8Ic-teste-validando.vo
+Z7 FIc-teste-validando.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Ic-teste-validando.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1771961557.094000
+Z12 !s107 Ic-teste-validando.vo|
+!s101 -O0
+vtop_vlg_check_tst
+!i10b 1
+Z13 !s100 S?^P26O@VZJX@OARJYk921
+Z14 I`V?=AZ@f?d7C>ULZ7WeiY2
+Z15 V6AA=z=MK@[9oP>L`SbR7]3
+R4
+Z16 w1771961548
+Z17 8Ic-teste-validando.vt
+Z18 FIc-teste-validando.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z19 !s108 1771961559.196000
+Z20 !s107 Ic-teste-validando.vt|
+Z21 !s90 -work|work|Ic-teste-validando.vt|
+!s101 -O0
+R10
+vtop_vlg_sample_tst
+!i10b 1
+Z22 !s100 2:QLLh1UDX`Xko[OPX6eg3
+Z23 I4C4k6IRETDZH]n?zPAC_S1
+Z24 V4oENbD40gMNaaQRhWX_WQ2
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vtop_vlg_vec_tst
+!i10b 1
+Z25 !s100 eneURLiGZY>0HEDdm[98M0
+Z26 Id]2z9Tb>gD:2A]7O@BUhS1
+Z27 Vda?jdcYLcj7iMbie@gX@73
+R4
+R16
+R17
+R18
+Z28 L0 1387
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
