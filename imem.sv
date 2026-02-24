@@ -22,7 +22,7 @@ module imem(input logic [31:0] a,
 		//$readmemh("riscvtest.txt",RAM);
 		//$readmemh("teste_TODAS_ULA.txt",RAM);
 	   //$readmemh("teste_TODAS_DESVIO.txt",RAM);
-		$readmemh("hexa_de_todas.txt",RAM);
+		$readmemh("Programa_Teste_Principal.txt",RAM);
 		
 		
 /*		
