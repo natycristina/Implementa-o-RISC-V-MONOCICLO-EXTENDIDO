@@ -63,18 +63,22 @@ The architecture was validated using:
 1. Clone or download this repository:
    
 ```bash
-git clone [https://github.com/natycristina/Extended-Single-Cycle-RISC-V-Implementation.git](https://github.com/natycristina/Extended-Single-Cycle-RISC-V-Implementation.git)
+[[[git clone [https://github.com/natycristina/Extended-Single-Cycle-RISC-V-Implementation.git](https://github.com/natycristina/Extended-Single-Cycle-RISC-V-Implementation.git)](https://github.com/natycristina/Extended-Single-Cycle-RISC-V-Implementation.git)](https://github.com/natycristina/Extended-Single-Cycle-RISC-V-Implementation.git)](https://github.com/natycristina/Extended-Single-Cycle-RISC-V-Implementation.git)
 ```
 
 2. Open the project file:
 
+```bash
 Ic-teste-validando.qpf
+```
 
 3. Compile the project
 
 4. Open the waveform file:
 
+```bash
 Waveform.vwf
+```
 
 5. Run simulation
 
