@@ -8,10 +8,10 @@ module aludec(input  logic       opb5,
   logic RtypeSub;
   logic RtypeMulDiv;  // Nova lógica para MUL/DIV
   
-  // Mantendo a lógica original do RtypeSub
+  // Lógica original do RtypeSub
   assign RtypeSub = funct7b5 & opb5;  // TRUE for R-type subtract instruction
   
-  // NOVA: Lógica específica para MUL/DIV (funct7 = 0000001)
+  // Lógica específica para MUL/DIV (funct7 = 0000001)
   assign RtypeMulDiv = (funct7 == 7'b0000001) & opb5;  // MUL/DIV: funct7=0000001, R-type
 
   always_comb
