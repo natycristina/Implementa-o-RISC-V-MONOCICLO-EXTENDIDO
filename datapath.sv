@@ -3,7 +3,7 @@ module datapath(input  logic        clk, reset,
                 input  logic        PCSrc, ALUSrc,
                 input  logic        RegWrite,
                 input  logic [1:0]  ImmSrc,
-                input  logic [3:0]  ALUControl,  // Corrigido para 4 bits
+                input  logic [3:0]  ALUControl,  
                 output logic        Zero,
                 output logic        LT,
                 output logic [31:0] PC,
