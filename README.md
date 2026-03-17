@@ -62,9 +62,9 @@ The architecture was validated using:
 ### Option 1 — Open directly in Quartus
 1. Clone or download this repository:
    
-```markdown
 ```bash
-https://github.com/natycristina/Extended-Single-Cycle-RISC-V-Implementation.git
+git clone [https://github.com/natycristina/Extended-Single-Cycle-RISC-V-Implementation.git](https://github.com/natycristina/Extended-Single-Cycle-RISC-V-Implementation.git)
+```
 
 2. Open the project file:
 
