@@ -4,6 +4,12 @@
   Microarchitecture implemented in SystemVerilog with extended instruction set.
 </p>
 
+<h2 align="center">🖼️ Architecture Diagram</h2>
+
+<p align="center">
+  <img src="images/monociclo-estendido.jpg" width="600"/>
+</p>
+
 ---
 
 ## 📌 Overview
